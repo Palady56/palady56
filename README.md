@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://t.me/palady_02" target="_blank">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fpalady_02?logo=telegram&link=https%3A%2F%2Ft.me%2Fpalady_02" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
