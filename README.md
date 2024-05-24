@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋</h1>
+<h1 align="center">👋 Hi there! 👋</h1>
 
 ###
 
@@ -16,12 +16,9 @@
   </a>
 </div>
 
-
-###
-
-<div align="center">
-  <img src=""  />
-</div>
+<!-- <div align="center"> -->
+<!--   <img src=""  /> -->
+<!-- </div> -->
 
 ###
 
@@ -56,15 +53,8 @@
 
 ###
 
-<div align="center">
-  <img src="" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="" height="150" alt="stats graph"  />
-  <img src="" height="150" alt="languages graph"  />
-</div>
+ <!-- <div align="center"> -->
+<!--   <img src="" height="150" alt="languages graph"  /> -->
+<!-- </div> -->
 
 ###
