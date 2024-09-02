@@ -62,7 +62,7 @@
 <h3 align="left">🏆 CodeWars Stats:</h3>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/Palady56/badges/large" alt="Codewars Stats">
+  <img src="https://www.codewars.com/users/Palady/badges/large" alt="Codewars Stats">
 </div>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=palady56&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3 -->
 
